@@ -1,4 +1,4 @@
-# rl_project_2
+# Lunar Lander DQN
 
 # To run:
 
