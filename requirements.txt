@@ -15,7 +15,7 @@ colorama==0.3.9
 cycler==0.10.0
 dask==0.18.1
 decorator==4.3.0
-distributed==1.22.0
+distributed==2021.10.0
 entrypoints==0.2.3
 flatbuffers==2015.12.22.1
 funcsigs==1.0.2
